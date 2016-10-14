@@ -1,0 +1,25 @@
+#header{
+	height: float;
+	width: float;
+}
+a{
+	text-decoration: underline;
+}
+*{
+	font-family: sans-serif;
+	background-color: #99ddff;
+img{
+	width: float;
+	margin: 1px 1px 1px 1px;
+  
+}
+div img{
+	width: 40px;
+	height: 40px;
+}
+#footer{
+	height: 200px;
+	width: float;
+	background-color: #99dddd;
+	border-radius: 5px 5px;
+}
